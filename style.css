@@ -119,13 +119,13 @@
 
 @media (min-width : 640px) and (max-width : 768px) and (orientation : landscape){
 	section{
-		width: 147%;
+		width: 100%;
 	}
 }
 
 @media (min-width : 768px) and (max-width : 1024px) and (orientation : landscape){
 	section{
-		width: 116%;
+		width: 100%;
 	}
 
 }
